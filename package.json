@@ -3,7 +3,7 @@
   "publisher": "hss",
   "displayName": "i18n-hover",
   "description": "show specific translation when you hover on a tag",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
