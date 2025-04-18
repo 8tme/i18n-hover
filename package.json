@@ -53,7 +53,16 @@
   },
   "keywords": [
     "i18n",
+    "react-i18n",
+    "vue-i18n",
     "translation",
-    "hover"
+    "hover",
+    "i18n-hover",
+    "locale",
+    "language",
+    "translation-key",
+    "translation-keys",
+    "translation-key-hover",
+    "translation-key-hover-i18n"
   ]
 }
