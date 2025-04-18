@@ -39,3 +39,7 @@ English
 - the language name should be consistent with the file name, for example: en.js or en.json
 - support json and js files
 - support any language name (en can, english can)
+
+## preview
+
+![i18n Hover Extension Preview](assets/preview.gif)

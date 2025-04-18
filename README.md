@@ -38,3 +38,7 @@ interface I18nHoverConfig {
 - 语言名应和文件名保持一致, 例如：en.js 或者 en.json
 - 支持 json 和 js 文件
 - 支持任意语言称呼 (en可以，english也可以)
+
+## 演示
+
+![i18n Hover 插件演示](assets/preview.gif)
