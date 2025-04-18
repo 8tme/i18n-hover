@@ -1,6 +1,6 @@
 {
   "name": "i18n-hover",
-  "displayName": "show-translation-on-hover",
+  "displayName": "i18n-hover",
   "description": "show specific translation when you hover on a tag",
   "version": "0.0.1",
   "engines": {
