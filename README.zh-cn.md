@@ -33,7 +33,7 @@ interface I18nHoverConfig {
 }
 ```
 
-## attention
+## 注意
 
 - 语言名应和文件名保持一致, 例如：en.js 或者 en.json
 - 支持 json 和 js 文件
